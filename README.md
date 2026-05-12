@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sliver 🌐 — RWA Fractional Tokenization Platform
 
 A premium, enterprise-grade React dashboard for Real World Asset fractional tokenization.
@@ -107,3 +108,7 @@ sliver-dashboard/
 | Display Font | Syne |
 | Body Font | DM Sans |
 | Mono Font | JetBrains Mono |
+=======
+# hackindia-ai-deeptech-hackathon-abes-ghaziabad-binary-bandits
+Hackathon team repository for Binary Bandits - [hackindia-team:hackindia-ai-deeptech-hackathon-abes-ghaziabad:binary-bandits]
+>>>>>>> 0af93f8d0011795cf3ec545ea985b77857cacee9
